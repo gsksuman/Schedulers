@@ -7,3 +7,7 @@ jobs whose tasks are defined as standard Java components that may execute virtua
 The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
 
 Quartz is freely usable, licensed under the Apache 2.0 license.
+
+supporting jars
+- quartz-2.2.1.jar
+- quartz-jobs-2.2.1.jar
